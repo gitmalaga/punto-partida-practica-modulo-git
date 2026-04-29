@@ -2,7 +2,7 @@
 Un fork es una copia en local de un proyecto que está en la web
 upstream es el nombre que se da al origen que está en la web, cuyo dueño no soy yo. S ediferencia así del origin que es el mio.
 
-![Captura 1](capturas/Captura1.png)
+![Captura 1](Capturas/Captura1.png)
 
 #  Explica por qué la rama parte de dev y no de main.
 Por la filosofía de flujos de programación, es mejor tener todo aquello que se va a modificar que cuelgue de una rama dev, para podr interpretar el main como lo que está en producción y lo demás está pendiente de pasar a producción.
